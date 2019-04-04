@@ -13,7 +13,7 @@ public class Car {
     private int position = 0;
 
     private final static int STANDARD_GO = 3;
-    private final static int BOUNDARY = 0;
+    private final static int BOUNDARY = 9;
 
     public Car(String name) {
         this.name = name;
